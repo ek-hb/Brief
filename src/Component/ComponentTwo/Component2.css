@@ -1,0 +1,56 @@
+.skills {
+  background-color: rgba(196, 196, 196, 0.2);
+  color: #343434;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+.skills > h2 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  border-bottom: 3px solid black;
+  text-align: end;
+  margin-right: 26px;
+  margin-top: 10px;
+}
+ul {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 18px;
+}
+li {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  padding-top: 20px;
+}
+.lg > h2 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  border-bottom: 3px solid black;
+  text-align: end;
+  margin-right: 26px;
+  margin-top: 10px;
+}
+.lg {
+  padding-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+}
+table {
+  width: 100%;
+}
+#bl {
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 10px;
+}

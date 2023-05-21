@@ -1,0 +1,44 @@
+.mainTwoItem {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+}
+.mainTwoItem > h1 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  padding-bottom: 5px;
+  border-bottom: 2px solid black;
+}
+.mainTwoText {
+  display: flex;
+  flex-direction: column;
+  /* background-color: rgba(128, 128, 128, 0.345); */
+  margin-bottom: 20px;
+}
+.grayText {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: rgba(52, 52, 52, 0.5);
+  margin: 3px;
+}
+.black {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 150%;
+  color: #000000;
+  margin: 3px;
+}
+.text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  color: #343434;
+  margin: 3px;
+}

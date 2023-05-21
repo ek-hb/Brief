@@ -1,0 +1,19 @@
+body {
+  width: 1440px;
+}
+div {
+  display: flex;
+  flex-direction: row;
+}
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+  height: 100vh;
+  margin-left: 10px;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+}
